@@ -42,9 +42,6 @@ turtlebot3-autonomous-navigation/
 │           ├── dynamic_obstacles.py
 │           ├── nav_watchdog.py
 │           └── patrol.py
-├── dynamic_obstacle/             # first obstacle scripts (see part 1)
-│   ├── spawn_obstacles.py
-│   └── move_four_obstacles.py
 ├── turtlebot3_maps/
 │   ├── clean_map.yaml
 │   └── clean_map.pgm
