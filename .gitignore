@@ -1,0 +1,19 @@
+# ROS 2 build files
+build/
+install/
+log/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE settings
+.vscode/
+.idea/
+
+# Temporary files
+*.log
+*.tmp
+
+# Visual Studio files
+**/.vs/
